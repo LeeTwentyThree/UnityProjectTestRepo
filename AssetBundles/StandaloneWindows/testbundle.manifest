@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 4148495665
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 140f1e2d559425cd6eafd73f500806f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d9b44b701a308bf863bde6cd5ac2532
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 548206027, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: -2015573868, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: 270572393, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+- Class: 114
+  Script: {fileID: -1300030820, guid: a6a460bc9cda68a8c89553f1ec5be757, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/TempTestObj.prefab
+Dependencies: []
