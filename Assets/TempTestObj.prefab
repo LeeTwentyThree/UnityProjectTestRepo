@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 2189041723079807945}
   - component: {fileID: 6997762320936636420}
   - component: {fileID: 6594462708127328817}
+  - component: {fileID: -7221606522592871906}
   m_Layer: 0
   m_Name: TempTestObj
   m_TagString: Untagged
@@ -195,3 +196,15 @@ MonoBehaviour:
   closeThreshold: 50
   farThreshold: 500
   boundsRenderer: {fileID: 0}
+--- !u!114 &-7221606522592871906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5424021622980549555}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -819889153, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
